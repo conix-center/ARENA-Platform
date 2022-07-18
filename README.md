@@ -1,4 +1,4 @@
-# ARENA
+# The Augmented Reality Edge Network Architecture (ARENA)
 
 ![image](https://user-images.githubusercontent.com/3504501/179473475-226cfcb4-8bea-40af-b366-1f45fe4c988d.png)
 
